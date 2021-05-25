@@ -1,3 +1,12 @@
+
+
+
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//comment out first four lines
 // const input = document.getElementById('input');
 // function clickAlert() {
 //     alert('I was clicked!');
